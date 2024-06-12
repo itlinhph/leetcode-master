@@ -1,4 +1,4 @@
-package com.neetcode.two_pointers;
+package com.neetcode.two_pointers.easy;
 
 public class RemoveDuplicateFromSortedArray {
 
