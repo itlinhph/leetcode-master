@@ -1,3 +1,0 @@
-# hieupd
-This is a sample file to visualize folder structure in the project.
-You can delete this file after you have created your own files.
