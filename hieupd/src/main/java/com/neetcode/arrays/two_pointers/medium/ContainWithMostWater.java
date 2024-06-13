@@ -1,4 +1,4 @@
-package com.neetcode.two_pointers.medium;
+package com.neetcode.arrays.two_pointers.medium;
 
 public class ContainWithMostWater {
 

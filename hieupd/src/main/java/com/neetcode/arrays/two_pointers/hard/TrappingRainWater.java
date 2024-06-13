@@ -1,4 +1,4 @@
-package com.neetcode.two_pointers.hard;
+package com.neetcode.arrays.two_pointers.hard;
 
 public class TrappingRainWater {
 
