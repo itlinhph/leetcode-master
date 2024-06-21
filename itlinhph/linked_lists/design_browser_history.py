@@ -39,6 +39,9 @@ class BrowserHistory(object):
         return self.current.val
 
 
+# TODO: Implement with arrays solution
+
+
 # Your BrowserHistory object will be instantiated and called as such:
 # obj = BrowserHistory(homepage)
 # obj.visit(url)
