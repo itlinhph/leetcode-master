@@ -19,6 +19,8 @@ class Solution(object):
     
     def insertIntoBST_2(self, root: TreeNode, val: int):
         cur = root
+        if not cur:
+            return TreeNode(val=val)
         while True:
             if val > cur.val:
                 if cur.right:
