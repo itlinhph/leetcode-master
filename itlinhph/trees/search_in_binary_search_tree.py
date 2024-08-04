@@ -12,3 +12,15 @@ class Solution:
             return self.searchBST(root.left, val)
         else:
             return root
+        
+    def searchBST2(self, root: TreeNode, val: int):
+        while root:
+            if not root:
+                return None
+            if root.val == val:
+                return root
+            elif root.val > val:
+                root = root.left
+            else:
+                root = root.right
+            
